@@ -1,0 +1,6 @@
+
+train: C:\Users\Vaibhav\Z_Train\Kvasir-SEG-YOLO/images/train
+val: C:\Users\Vaibhav\Z_Train\Kvasir-SEG-YOLO/images/val
+
+nc: 1
+names: ['polyp']
